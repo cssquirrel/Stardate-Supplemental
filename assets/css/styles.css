@@ -1,7 +1,84 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
 body {
     font-family: 'Open Sans', sans-serif;
+    background: black;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    color: #444;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Josefin Sans', sans-serif;
+}
+
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    min-height: 100%;
+}
+
+a, a:visited {
+    color: #31b9ea;
+    text-decoration: none;
+}
+
+a:hover,a:focus {
+    color: #872624;
+}
+
+p {
+    margin: 10px 0;
+}
+
+/* // MASTHEAD ///////////////////////////////////////////////////////////////*/
+
+#masthead {
+    padding: 10px;
+}
+
+#masthead h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 32px;
+}
+
+#masthead .subheading {
+    text-align: center;
+    font-size: 14px;
+    margin: 0 auto 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: italic;
+}
+
+/* // CONTENT ////////////////////////////////////////////////////////////////*/
+
+#content .capsule {
+    padding: 10px;
+}
+
+#content .capsule .banner {
+    max-width: 100%;
+}
+
+.capsule h2 {
+    font-size: 26px;
+    text-transform: uppercase;
+    margin: 0 0 5px;
+}
+
+.capsule h2 a {
+    color: #444;
+}
+
+.capsule .date {
+    margin: 0 0 5px;
+    font-size: 14px;
+    font-style: italic;
 }
