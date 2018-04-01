@@ -49,6 +49,10 @@ p {
     font-size: 32px;
 }
 
+#masthead h1 a {
+    color: #444;
+}
+
 #masthead .subheading {
     text-align: center;
     font-size: 14px;
