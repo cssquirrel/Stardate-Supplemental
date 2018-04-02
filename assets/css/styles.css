@@ -61,6 +61,17 @@ p {
     font-style: italic;
 }
 
+#masthead .social {
+    text-align: center;
+}
+
+#masthead .social .rss img,
+#masthead .social .twitter img {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+}
+
 /* // CONTENT ////////////////////////////////////////////////////////////////*/
 
 #content .capsule {
