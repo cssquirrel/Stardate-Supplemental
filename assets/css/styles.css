@@ -10,6 +10,7 @@ body {
     padding: 0;
     height: 100%;
     color: #444;
+    font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -21,6 +22,13 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
     background: white;
     min-height: 100%;
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 1000px) {
+    #container {
+        max-width: 100%;
+    }
 }
 
 a, a:visited {
@@ -36,10 +44,26 @@ p {
     margin: 10px 0;
 }
 
+li {
+    margin: 10px 0;
+}
+
+@media only screen and (max-width: 1000px) { 
+    p, li {
+        margin: 20px 0;
+    }
+}
+
 /* // MASTHEAD ///////////////////////////////////////////////////////////////*/
 
 #masthead {
     padding: 10px;
+}
+
+@media only screen and (max-width: 1000px) { 
+    #masthead {
+        padding-bottom: 40px;
+    }
 }
 
 #masthead h1 {
@@ -47,6 +71,13 @@ p {
     text-align: center;
     margin-bottom: 10px;
     font-size: 32px;
+}
+
+@media only screen and (max-width: 1000px) { 
+    #masthead h1 {
+        font-size: 64px;
+        margin-bottom: 20px;
+    }
 }
 
 #masthead h1 a {
@@ -61,6 +92,13 @@ p {
     font-style: italic;
 }
 
+@media only screen and (max-width: 1000px) { 
+    #masthead .subheading {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+}
+
 #masthead .social {
     text-align: center;
 }
@@ -72,10 +110,26 @@ p {
     height: 18px;
 }
 
+#masthead .social .rss img {
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 1000px) { 
+    #masthead .social .rss img,
+    #masthead .social .twitter img {
+        width: 72px;
+        height: 72px;
+    }
+
+    #masthead .social .rss img {
+        margin-right: 40px;
+    }
+}
+
 /* // CONTENT ////////////////////////////////////////////////////////////////*/
 
 #content .capsule {
-    padding: 10px;
+    padding: 20px;
 }
 
 #content .capsule .banner {
@@ -96,4 +150,46 @@ p {
     margin: 0 0 5px;
     font-size: 14px;
     font-style: italic;
+}
+
+.capsule .banner {
+    display: block;
+    width: 100%;
+    margin: 0 auto 10px;
+}
+
+/* // Player /////////////////////////////////////////////////////////////////*/
+
+.player iframe {
+    height: 50px;
+    width: 100%;
+    margin: 0 0 10px;
+    border: none;
+}
+
+.download img {
+    height: 16px;
+    width: 16px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .player iframe {
+        margin-bottom: 20px;
+    }
+
+    .download, .download:visited {
+        display: block;
+        color: white;
+        background-color: #31b9ea;
+        border-radius: 10px;
+        margin: 0 0 20px;
+        text-align: center;
+        padding: 20px;
+        text-transform: uppercase;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 24px;
+    }
 }
