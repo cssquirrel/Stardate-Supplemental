@@ -58,6 +58,8 @@ li {
 
 #masthead {
     padding: 10px;
+    background-color: #444;
+    color: white;
 }
 
 @media only screen and (max-width: 1000px) { 
@@ -81,7 +83,12 @@ li {
 }
 
 #masthead h1 a {
-    color: #444;
+    color: white;
+}
+
+#masthead .site-logo {
+    margin: 0 auto 10px;
+    display: block;
 }
 
 #masthead .subheading {
