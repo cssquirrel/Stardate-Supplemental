@@ -22,7 +22,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
     background: white;
     min-height: 100%;
-    padding-bottom: 20px;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -106,29 +105,27 @@ li {
     }
 }
 
-#masthead .social {
+.social {
     text-align: center;
 }
 
-#masthead .social .rss img,
-#masthead .social .twitter img {
+.social .icon img {
     display: inline-block;
     width: 18px;
     height: 18px;
 }
 
-#masthead .social .rss img {
+.social .icon.icon-notlast img {
     margin-right: 10px;
 }
 
 @media only screen and (max-width: 1000px) { 
-    #masthead .social .rss img,
-    #masthead .social .twitter img {
+    .social .icon img {
         width: 72px;
         height: 72px;
     }
 
-    #masthead .social .rss img {
+    .social .icon.icon-notlast img {
         margin-right: 40px;
     }
 }
@@ -199,4 +196,20 @@ li {
         font-family: 'Josefin Sans', sans-serif;
         font-size: 24px;
     }
+}
+
+/* // Footer /////////////////////////////////////////////////////////////////*/
+
+#siteinfo {
+    padding: 10px;
+    background-color: #444;
+    color: white;
+    margin-top: 20px;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+#siteinfo .copyright {
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.2em;
 }
