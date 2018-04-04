@@ -146,6 +146,10 @@ li {
     margin: 0 0 5px;
 }
 
+.capsule h3 {
+    text-transform: uppercase;
+}
+
 .capsule h2 a {
     color: #444;
 }
@@ -162,6 +166,10 @@ li {
     margin: 0 auto 10px;
 }
 
+.capsule ul {
+    padding-left: 20px;
+}
+
 /* // Player /////////////////////////////////////////////////////////////////*/
 
 .player iframe {
@@ -171,11 +179,23 @@ li {
     border: none;
 }
 
-.download img {
+.player .download {
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+.player .download img,
+.player .itunes img {
     height: 16px;
     width: 16px;
     display: inline-block;
     margin-right: 5px;
+}
+
+.player .dot {
+    color: #31b9ea;
+    padding: 0 0.5em;
+    display: inline-block;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -184,7 +204,7 @@ li {
         margin-bottom: 20px;
     }
 
-    .download, .download:visited {
+    .player .download, .player .download:visited {
         display: block;
         color: white;
         background-color: #31b9ea;
@@ -195,6 +215,10 @@ li {
         text-transform: uppercase;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 24px;
+    }
+
+    .player .dot {
+        display: none;
     }
 }
 
