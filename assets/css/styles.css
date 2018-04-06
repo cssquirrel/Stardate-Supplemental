@@ -222,6 +222,7 @@ li {
 
 .social {
     text-align: center;
+    clear: both;
 }
 
 .social .icon img {
