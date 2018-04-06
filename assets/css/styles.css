@@ -223,6 +223,7 @@ li {
 .social {
     text-align: center;
     clear: both;
+    padding-top: 10px;
 }
 
 .social .icon img {
