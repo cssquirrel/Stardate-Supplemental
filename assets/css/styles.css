@@ -111,8 +111,6 @@ li {
 /* // HOSTS //////////////////////////////////////////////////////////////////*/
 
 .hosts {
-    overflow: hidden;
-    clear: both;
     position: relative;
     margin-top: 40px;
 }
