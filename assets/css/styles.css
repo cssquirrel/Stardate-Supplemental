@@ -176,6 +176,23 @@ li {
     vertical-align: top;
 }
 
+.capsule .hosts {
+    margin-top: 10px;
+}
+
+.capsule .hosts .brother {
+    margin-bottom: 10px;
+}
+
+.capsule .brother .portrait {
+    border: solid 5px #444;
+    background: #444;
+}
+
+.capsule .hosts h2 {
+    font-size: 20px;
+}
+
 @media only screen and (max-width: 1000px) { 
     .hosts h2 {
         position: relative;
@@ -285,6 +302,14 @@ li {
 
 .capsule ul {
     padding-left: 20px;
+}
+
+.capsule .blog-social {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+    padding: 0 0 10px;
+    clear: both;    
 }
 
 /* // Player /////////////////////////////////////////////////////////////////*/
