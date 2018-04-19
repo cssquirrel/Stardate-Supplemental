@@ -269,6 +269,12 @@ li {
     padding: 20px;
 }
 
+@media only screen and (max-width: 1000px) {
+    #content .capsule {
+        padding: 40px;
+    }
+}
+
 #content .capsule .banner {
     max-width: 100%;
 }
@@ -301,6 +307,12 @@ li {
 
 .capsule ul {
     padding-left: 20px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .capsule ul {
+        padding-left: 40px;
+    }
 }
 
 .capsule .blog-social {
@@ -387,4 +399,16 @@ li {
     font-size: 20px;
     margin-bottom: 5px;
     text-transform: uppercase;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    #siteinfo {
+        padding-bottom: 20px;
+    }
+
+    #siteinfo .copyright.episodes {
+        padding-top: 20px;
+    }
+
 }
