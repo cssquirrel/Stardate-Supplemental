@@ -63,7 +63,7 @@ li {
 
 @media only screen and (max-width: 1000px) { 
     #masthead {
-        padding-bottom: 40px;
+        padding-bottom: 5px;
     }
 }
 
@@ -71,16 +71,33 @@ li {
 
 #masthead h1 {
     text-transform: uppercase;
-    text-align: center;
-    margin-bottom: 10px;
-    font-size: 32px;
+    /*text-align: center;*/
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 80px;
+    margin-right: 60px;
 }
 
 @media only screen and (max-width: 1000px) { 
-    #masthead h1 {
-        font-size: 64px;
-        margin-bottom: 20px;
+    #masthead h1 .menu-logo {
+        display: block;
     }
+
+    #masthead h1 {
+        font-size: 32px;
+        line-height: 1.2em;
+        margin-right: 0;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+}
+
+#masthead .main-nav-wrapper {
+    border-top: solid 3px white;
+    border-bottom: solid 3px white;
+    margin: 5px 0 20px;
 }
 
 #masthead h1 a {
@@ -96,15 +113,74 @@ li {
 #masthead .subheading {
     text-align: center;
     font-size: 14px;
-    margin: 0 auto 10px;
+    margin: 0 auto;
     font-family: 'Josefin Sans', sans-serif;
     font-style: italic;
 }
 
+.main-menu {
+    list-style-type: none;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 0;
+}
+
+.main-menu li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0;
+    color: #31b9ea;
+}
+
+.main-menu li.bullet-after {
+    padding-right: 5px;
+}
+
+.main-menu li.bullet-after:after {
+    padding-left: 10px;
+    content: '•';
+}
+
+.main-menu li.icon-item {
+    padding-right: 10px;
+}
+
+#masthead .menu-logo {
+    display: inline-block;
+}
+
+#masthead .menu-logo img {
+    height: 80px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-menu li .icon img {
+    height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: -4px;
+}
+
 @media only screen and (max-width: 1000px) { 
     #masthead .subheading {
-        font-size: 20px;
-        margin-bottom: 40px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .main-menu {
+        margin-bottom: 10px;
+    }
+
+    .main-menu li {
+        line-height: 1.2em;
+    }
+
+    .main-menu li.icon-item {
+        padding-right: 5px;
     }
 }
 
@@ -112,7 +188,8 @@ li {
 
 .hosts {
     position: relative;
-    margin-top: 40px;
+    margin-top: 20px;
+    overflow: auto;
 }
 
 .hosts h2 {
@@ -124,6 +201,7 @@ li {
     top: 0;
     margin-top: 0;
     pointer-events: none;
+    font-size: 16px;
 }
 
 .hosts .brother {
@@ -133,7 +211,7 @@ li {
 }
 
 .brother .portrait {
-    width: 86px;
+    width: 64px;
     border: solid 5px white;
 }
 
@@ -216,7 +294,7 @@ li {
 
     .hosts .brother.conrad .info,
     .hosts .brother.kyle .info {
-        font-size: 24px;
+        font-size: 16px;
     }
 
     .hosts .brother.kyle {
