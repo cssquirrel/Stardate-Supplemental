@@ -173,6 +173,7 @@ li {
 
     .main-menu {
         margin-bottom: 10px;
+        display: block;
     }
 
     .main-menu li {
