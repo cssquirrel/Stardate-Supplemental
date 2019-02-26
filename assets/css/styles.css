@@ -83,14 +83,16 @@ li {
 @media only screen and (max-width: 1000px) { 
     #masthead h1 .menu-logo {
         display: block;
+        padding: 10px 0;
     }
 
     #masthead h1 {
-        font-size: 32px;
+        font-size: 48px;
         line-height: 1.2em;
         margin-right: 0;
         margin-bottom: 10px;
         text-align: center;
+        display: block;
     }
 }
 
@@ -167,13 +169,21 @@ li {
 
 @media only screen and (max-width: 1000px) { 
     #masthead .subheading {
-        font-size: 16px;
+        font-size: 12px;
         margin-bottom: 20px;
+        font-size: 12px;
+    }
+
+    #masthead .main-nav-wrapper {
+        padding: 10px 0 20px;
     }
 
     .main-menu {
+        margin-top: 20px;
         margin-bottom: 10px;
         display: block;
+        text-align: center;
+        font-size: 32px;
     }
 
     .main-menu li {
@@ -181,7 +191,12 @@ li {
     }
 
     .main-menu li.icon-item {
-        padding-right: 5px;
+        padding-right: 10px;
+    }
+
+    .main-menu li .icon img {
+        height: 38px;
+        margin-top: -8px;
     }
 }
 
@@ -273,9 +288,15 @@ li {
 }
 
 @media only screen and (max-width: 1000px) { 
+
+    .hosts {
+        margin-top: 40px;
+    }
+
     .hosts h2 {
         position: relative;
         width: auto;
+        margin-bottom: 10px;
     }
 
     .hosts .brother.conrad,
@@ -295,7 +316,7 @@ li {
 
     .hosts .brother.conrad .info,
     .hosts .brother.kyle .info {
-        font-size: 16px;
+        font-size: 28px;
     }
 
     .hosts .brother.kyle {
@@ -435,6 +456,10 @@ li {
 .capsule .pod-nav li a:focus {
     background: #444;
     color: white;
+}
+
+@media only screen and (max-width: 1000px) {
+    font-size: 24px;
 }
 
 /* // Player /////////////////////////////////////////////////////////////////*/
