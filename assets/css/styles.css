@@ -427,6 +427,7 @@ li {
     list-style-type: none;
     margin-left: 0;
     padding-left: 0;
+    margin-bottom: 0;
     position: relative;
 }
 
@@ -460,6 +461,96 @@ li {
 
 @media only screen and (max-width: 1000px) {
     font-size: 24px;
+}
+
+@media only screen and (min-width: 1001px) {
+    
+    #content.homepage article.capsule .banner {
+        max-width: 380px;
+        margin: 0 20px 10px 0;
+        display: inline-block;
+        float: left;
+    }
+
+    #content.homepage article.capsule .banner + p {
+        vertical-align: top;
+        margin: 0 0 1.5em;
+    }
+
+    #content.homepage article.capsule .pod-nav li {
+        display: block;
+        width: 100%;
+    }
+
+    #content.homepage article.capsule .pod-nav li a {
+        padding: 10px 0;
+    }
+
+}
+
+/* // Preview ////////////////////////////////////////////////////////////////*/
+
+#content .preview {
+    padding: 0 20px 0;
+    overflow: auto;
+}
+
+.preview h2 {
+    font-size: 26px;
+    text-transform: uppercase;
+    border-top: solid 3px #444;
+    padding-top: 20px;
+    margin: 0 0 10px;
+}
+
+.preview h3 {
+    font-size: 14px;
+    margin: 10px 0;
+    font-weight: normal;
+}
+
+.preview h3 + h3 {
+    margin-bottom: 20px;
+}
+
+.preview h3 strong {
+    text-transform: uppercase;
+}
+
+#content .preview .banner {
+    max-width: 100%;
+}
+
+.preview .banner {
+    width: 100%;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+#content.homepage article.preview .banner + p {
+    margin-top: 0;
+}
+
+@media only screen and (min-width: 1001px) {
+    #content.homepage article.preview .banner { 
+        max-width: 380px;
+        margin: 0 0 10px 20px;
+        display: inline-block;
+        float: right;    
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .preview h2 {
+        margin-top: 20px;
+        padding-top: 40px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    #content .preview {
+        padding: 40px;
+    }
 }
 
 /* // Player /////////////////////////////////////////////////////////////////*/
