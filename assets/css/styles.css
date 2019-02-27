@@ -190,8 +190,18 @@ li {
         line-height: 1.2em;
     }
 
+    .main-menu li.bullet-after + li.bullet-after {
+        padding-right: 0;
+    }
+
+    .main-menu li.bullet-after + li.bullet-after:after {
+        padding-left: 0;
+        content: '';
+    }
+
     .main-menu li.icon-item {
         padding-right: 10px;
+        display: none;
     }
 
     .main-menu li .icon img {
@@ -360,6 +370,11 @@ li {
 
     .social .icon.icon-notlast img {
         margin-right: 40px;
+    }
+
+    #siteinfo .social {
+        padding: 0;
+        margin: 20px 0;
     }
 }
 
