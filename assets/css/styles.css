@@ -459,8 +459,20 @@ li {
     color: white;
 }
 
+#content article.capsule .pod-nav li:only-child {
+    display: block;
+    width: 100%;
+}
+
+#content article.capsule .pod-nav li a {
+    padding: 10px 0;
+}
+
 @media only screen and (max-width: 1000px) {
-    font-size: 24px;
+    #content article.capsule .pod-nav li a {
+        font-size: 24px;
+        padding: 20px 0;
+    }
 }
 
 @media only screen and (min-width: 1001px) {
@@ -477,14 +489,14 @@ li {
         margin: 0 0 1.5em;
     }
 
-    #content.homepage article.capsule .pod-nav li {
+    /*#content.homepage article.capsule .pod-nav li {
         display: block;
         width: 100%;
     }
 
     #content.homepage article.capsule .pod-nav li a {
         padding: 10px 0;
-    }
+    }*/
 
 }
 
