@@ -92,8 +92,8 @@ a.direct-link {
 
 @media only screen and (max-width: 1000px) { 
     #masthead h1 .menu-logo {
-        display: block;
-        padding: 10px 0;
+        display: inline-block;
+        padding: 0;
     }
 
     #masthead h1 {
@@ -165,9 +165,11 @@ a.direct-link {
 }
 
 #masthead .menu-logo img {
-    height: 80px;
+    height: 60px;
+    width: 60px;
     display: inline-block;
     vertical-align: middle;
+    margin-top: -11px;
 }
 
 .main-menu li .icon img {
@@ -193,10 +195,10 @@ a.direct-link {
 
     .main-menu {
         margin-top: 20px;
-        margin-bottom: 10px;
+        margin-bottom: 0px;
         display: block;
         text-align: center;
-        font-size: 32px;
+        font-size: 24px;
     }
 
     .main-menu li {
@@ -377,12 +379,12 @@ a.direct-link {
 
 @media only screen and (max-width: 1000px) { 
     .social .icon img {
-        width: 72px;
-        height: 72px;
+        width: 48px;
+        height: 48px;
     }
 
     .social .icon.icon-notlast img {
-        margin-right: 40px;
+        margin-right: 15px;
     }
 
     #siteinfo .social {
