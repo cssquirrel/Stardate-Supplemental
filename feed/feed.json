@@ -1,0 +1,392 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Stardate: Supplemental | A Star Trek podcast about the ships not named Enterprise by the Brothers Weems",
+  "language": "en",
+  "home_page_url": "http://stardatesupplemental.com/",
+  "feed_url": "http://stardatesupplemental.com/feed/feed.json",
+  "description": "A Star Trek podcast about the ships not named Enterprise by the Brothers Weems.",
+  "author": {
+    "name": "The Brothers Weems",
+    "url": "http://stardatesupplemental.com/about-me/"
+  },
+  "items": [{
+      "id": "http://stardatesupplemental.com/episodes/063-surplus-depot-z15/",
+      "url": "http://stardatesupplemental.com/episodes/063-surplus-depot-z15/",
+      "title": "Ambassador Spaaaaaaaawk",
+      "content_html": "<p>Spock is off betraying the Federation or something, but while Picard deals with that boring stuff, Team LaRiker is handed a cargo bay full of wreckage to excitedly sort out. And where does it lead, but to Surplus Depot Z15! Your best source of gently-used starships in the Alpha Quadrant. Brought to you by the Zakdorns, purveyors of strategy and pre-owned goods. Also, the despair of winter has finally set in for the Bros. Will they survive? Tune in and find out!</p>\n",
+      "date_published": "2021-03-08T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/062-ktarian-vessel/",
+      "url": "http://stardatesupplemental.com/episodes/062-ktarian-vessel/",
+      "title": "A Bandolier of Hyposprays",
+      "content_html": "<p>When you're a third-tier space-faring race who <em>really</em> wants to take down the Federation but don't even have the firepower to take down the Ferengi, what do you do? If you're Etana Jol of the Ktarians, you get sexy with Will Riker and use him to addict the <em>Enterprise</em> to the worst Occulus Quest VR game ever. And it would have worked too if it hadn't been for those darn kids and their android! Also, the Brothers Weems talk about frying turkey and Big Carpet. Tune in for a brand new pod!</p>\n",
+      "date_published": "2021-01-18T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/061-kallisko/",
+      "url": "http://stardatesupplemental.com/episodes/061-kallisko/",
+      "title": "Carbonated Beef and Bean Burrito",
+      "content_html": "<p>Captain Renaud may not have passed the nightmare hazing ritual that is the Starfleet Academy entrance exam, but nonetheless he has the pride of being a starship captain... albeit of the transport ship <em>Kallisko</em>, a low-end slow-as-heck ship from Nowheresville. Can he save his ship from the massive space pop rock that is the Crystalline Entity? No, <em>he cannot</em>. Meanwhile, the Brothers Weems talk about the wild Kit-Kats of Japan and carbonating everyone's favorite dinner items. Get some antacid. It's an all new pod!</p>\n",
+      "date_published": "2020-12-28T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/060-dolaks-starship/",
+      "url": "http://stardatesupplemental.com/episodes/060-dolaks-starship/",
+      "title": "Pig Has Beef",
+      "content_html": "<p>Gul Dolak isn't a Gul Dukat. He's not suave, definitely no ladies' man, and he's stuck in a boring assignment in Nowheresville in a remote border region. So when he has the chance to destroy a burning trash-heap of a Bajoran ship, he'll risk angering the flagship of the Federation to do so. Meanwhile, the Brothers Weems get all fanboyish over Ensign Ro Laren, the original Starfleet bad girl, talk VR (aka prototype holodeck?), and Kyle discovers he has no idea what pigs are made of. Get a bucket and strap on that VR helmet, it's a new pod!</p>\n",
+      "date_published": "2020-12-14T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/059-tama/",
+      "url": "http://stardatesupplemental.com/episodes/059-tama/",
+      "title": "Bug Scientist Extraordinaire",
+      "content_html": "<p>The Children of Tama can only talk in memes, really dank obscure memes, at that. Which makes the Universe a very lonely place. The boredom of never being able to talk to anyone other than his own crew makes Dathon, captain of the <i>Tama</i>, so wound up that the only way to get relief is to beam down with JLP, a pair of daggers, and hope for the best. But does old man Picard know enough about memes to make this work? Also, Conrad's a <i>dad</i>?! It's time for another wild pod!</p>\n",
+      "date_published": "2020-11-16T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/058-uss-sutherland/",
+      "url": "http://stardatesupplemental.com/episodes/058-uss-sutherland/",
+      "title": "Willie T. Frakes",
+      "content_html": "<p>Riker &amp; Geordi get to reform the dream team of LaRiker when it's time to form a Tachyon Detection Grid to find hidden Romulan ships, taking over the USS <i>Excalibur</i>. While they're having a fun time, Data gets saddled with a way less good time on the falling apart USS <i>Sutherland</i>, complete with first officer Christopher &quot;The Nob&quot; Hobson. Will Data survive Hobson's intransience? Will Kyle live up to Riker's birthday advice? Will Conrad learn how to pretend to be a trombone? Tune in and find out!</p>\n",
+      "date_published": "2020-09-14T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/057-iks-heghta/",
+      "url": "http://stardatesupplemental.com/episodes/057-iks-heghta/",
+      "title": "A Mouthful of Beard",
+      "content_html": "<p>When you're in the Klingon Civil War, there's not a better ship in Gowron's fleet to serve on than the IKS <i>Hegh'ta</i>, where none other than the two hottest singles in the Empire, the Sons of Mogh, serve. Can weapons officer Worf stand serving under his little brother Captain Kurn? Is beard-chewing a form of Klingon foreplay? Will the Brothers Weems agree upon the fair market value of remote office workers in a world without offices? Tune in and find out!</p>\n",
+      "date_published": "2020-09-07T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/056-tng-s04-finale/",
+      "url": "http://stardatesupplemental.com/episodes/056-tng-s04-finale/",
+      "title": "Replicators &amp; Fart Jokes",
+      "content_html": "<p>When you're in the Klingon Civil War, there's not a better ship in Gowron's fleet to serve on than the IKS <i>Hegh'ta</i>, where none other than the two hottest singles in the Empire, the Sons of Mogh, serve. Can weapons officer Worf stand serving under his little brother Captain Kurn? Is beard-chewing a form of Klingon foreplay? Will the Brothers Weems agree upon the fair market value of remote office workers in a world without offices? Tune in and find out!</p>\n",
+      "date_published": "2020-08-31T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/055-iks-bortas/",
+      "url": "http://stardatesupplemental.com/episodes/055-iks-bortas/",
+      "title": "Oberth-Class Truck",
+      "content_html": "<p>When you're Gowron, Chancellor of the Klingon Empire, you can't just fly around in any old junky bird-of-prey. No, you need the new hotness that is a <i>Vor'cha</i>-class cruiser like the IKS <i>Bortas</i>. Which, despite its new hotness, seems to be all steel and cement inside with no windows. Is that a good thing? Well, it does help when Duras loyalists are pounding you! Will Gowron survive the Klingon Civil War? Will Kyle survive Deathtrap? What does 'Pistachio Nine Blue' even mean? Tune in to answer at least one of those questions!</p>\n",
+      "date_published": "2020-07-20T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/054-gorakus/",
+      "url": "http://stardatesupplemental.com/episodes/054-gorakus/",
+      "title": "Multi-Story Sports Mayhem",
+      "content_html": "<p>24th century Romulans have exactly one look: pageboy haircuts, bondage leather straps, and square-as-heck 90's power shoulders. All of which Sela, the commander of the warbird <i>Gorakus</i>, rocks with one unusual feature: blonde hair. The half-human daughter of an alternate reality's Tasha Yar (just go with it), Sela's blonde locks aren't stopping her ambition to <i>destroy the Federation</i>. Will she outwit Picard? Will Dwight the Murder Deer kill Kyle in his sleep? What sport <i>is</i> multi-story? Tune in to find out!</p>\n",
+      "date_published": "2020-07-13T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/053-uss-cochrane/",
+      "url": "http://stardatesupplemental.com/episodes/053-uss-cochrane/",
+      "title": "Cards and Gagh Night",
+      "content_html": "<p>The only thing worse for a new officer in Starfleet than being assigned to an <i>Oberth</i>-class starship is being assigned to an <i>Oberth</i>-class starship that's being used as a retired admiral's bus. Worse yet, for the crew of the USS <i>Cochrane</i>, that admiral is Norah Satie, who's trying to bring the Inquisition back in style. Will former ensign-turned acting captain Aguilar keep the remnants of his crew alive after her draconian trials? What happened when J'Dan met J'Sally? Will Lt. Kurland get his friendship braclet back from J'dan? Only one way to find out!</p>\n",
+      "date_published": "2020-06-29T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/052-uss-brattain/",
+      "url": "http://stardatesupplemental.com/episodes/052-uss-brattain/",
+      "title": "Bottles and Bottles of Antimatter",
+      "content_html": "<p>The USS Brattain is, like all <i>Miranda-</i>class starships in the 24th, a pretty grim place to be assigned. How grim? Well, for one, the folks at space dock didn't even put spell the name on the hull right. Also there's used mall doors as substitute walls on the bridge? The only mercy is their inevitable death when a region of space time causes them to never dream again. Oh wait... did we say mercy? Let this be a lesson, never serve on <i>Mirandas</i>. All this, and Conrad laughs for like two minutes straight like Data from that Q episode.</p>\n",
+      "date_published": "2020-06-22T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/051-tarellian-vessel/",
+      "url": "http://stardatesupplemental.com/episodes/051-tarellian-vessel/",
+      "title": "The Space 80&#39;s",
+      "content_html": "<p>Haven might be the poor man's Risa, but it's still a great place to take a vacation. Which is a real problem when the would-be tourists from Tarellia show up with their horrible plague. Sure, they're sick, and will kill everyone if they beam down, but they're <i>sexy</i> sick, and are strutting around with the featheriest hair any hair metal band has ever prayed for. Will Troi get hooked up with Wyatt? Will Riker survive being called Bill? Will the Weems Brothers survive Covid? Tune in to find out!</p>\n",
+      "date_published": "2020-06-08T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/050-sikla-medical-facility/",
+      "url": "http://stardatesupplemental.com/episodes/050-sikla-medical-facility/",
+      "title": "Soloist Flute Career",
+      "content_html": "<p>When Riker tries to study some seriously weird-handed aliens with a sub-par disguise, it only takes one riot for him to land in the emergency room of the Sikla Medical Center. Unfortunately for him, the main treatment they're offering is rabid xenophobia and doctor-administered kicks to the ribs. How are these doctors able to keep their licenses? Is there anything Bebe Neuwirth can't do? What monsters put carpet in a trauma center's hallways? All this and more as the Brothers try to keep sane in the apocalypse.</p>\n",
+      "date_published": "2020-06-01T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/049-ventax-ii-science-station/",
+      "url": "http://stardatesupplemental.com/episodes/049-ventax-ii-science-station/",
+      "title": "Yoctogon",
+      "content_html": "<p>Ventax II is the perfect place to be a Federation scientist. A peaceful agrarian society. Extra baggy jumpsuits. Some great wine tours. Oh... and the literal, actual devil. The devil's a'comin and the whole station is a dreary concrete slab because they blew their budget on an oversized yellow octagon monitor for playing checkers, proving once again that the only Federation scientists are either evil or actively suffering due to poor life choices. Grab some fainting salts, because JLP is going to be baring some major leg in the newest pod!</p>\n",
+      "date_published": "2020-04-28T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/048-uss-cabot/",
+      "url": "http://stardatesupplemental.com/episodes/048-uss-cabot/",
+      "title": "Trials &amp; Trib-OZ-lations",
+      "content_html": "<p>Captain Lynne Lucero's first command is right up her alley. A science mission on a science ship! Which is, naturally, why she's utterly doomed. If there's anything that <em>Star Trek</em> makes absolutely clear, it's that small science ships like the USS <em>Cabot</em> are ripe for self-destruction due to one mad scientist or the other. In this case, that mad scientist is Lt. Edward Larkin. Will Lucero survive? All this, and the brothers pay tribute to Oz Tiltycat, who's moved on to Sto-vo-Kor. Qapla'!</p>\n",
+      "date_published": "2020-01-01T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/047-trager/",
+      "url": "http://stardatesupplemental.com/episodes/047-trager/",
+      "title": "Chin Gutter Action",
+      "content_html": "<p>It's the first-ever Stardate: Supplemental live show! The brothers talk about the Cardassian ship <i>Trager</i>, it's thirsty bondage-gear-wearing officers, and Gul Macet's unconventional moisture-control facial hair style. If that wasn't enough, it includes a Will Riker-themed quiz between Conrad and everyone else in the venue! Will the brothers survive their first live event? Will they repair the rift with Murphy's Apple Juice? Listen in and find out!</p>\n",
+      "date_published": "2019-10-14T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/046-uss-phoenix/",
+      "url": "http://stardatesupplemental.com/episodes/046-uss-phoenix/",
+      "title": "Bolian Butt Rock",
+      "content_html": "<p>Captain Benjamin Maxwell is one of &quot;Starfleet's finest officers&quot;... except for the fact that he's lost his mind and has started attacking defenseless Cardassian cargo ships with his <i>Nebula</i>-class starship, the USS <i>Phoenix</i>. Why is the whole ship crew participating in these crimes? Probably because Benny bludgeoned his protesting first officer to death with the ship's dedication plaque and nobody else wanted to be next. Can Bobby and the USS <i>Hood</i> contain Maxwell's madness? Can Gul Macet's face contain his chin-stache? Can Conrad sleep through Oz the cat's midnight botherings? Tune in to find out!</p>\n",
+      "date_published": "2019-09-23T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/045-devoras/",
+      "url": "http://stardatesupplemental.com/episodes/045-devoras/",
+      "title": "Buttering Picard&#39;s Head",
+      "content_html": "<p>Captain Benjamin Maxwell is one of &quot;Starfleet's finest officers&quot;... except for the fact that he's lost his mind and has started attacking defenseless Cardassian cargo ships with his <i>Nebula</i>-class starship, the USS <i>Phoenix</i>. Why is the whole ship crew participating in these crimes? Probably because Benny bludgeoned his protesting first officer to death with the ship's dedication plaque and nobody else wanted to be next. Can Bobby and the USS <i>Hood</i> contain Maxwell's madness? Can Gul Macet's face contain his chin-stache? Can Conrad sleep through Oz the cat's midnight botherings? Tune in to find out!</p>\n",
+      "date_published": "2019-09-16T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/044-uss-zhukov/",
+      "url": "http://stardatesupplemental.com/episodes/044-uss-zhukov/",
+      "title": "Sausage Supplemental",
+      "content_html": "<p>As an <i>Ambassador</i>-class starship, the USS <i>Zhukov</i> was one of the darlings of Starfleet a generation ago. As such, this still potent lady should have some wicked cool mission profiles for Captain Gleason and his crew, right? Wrong. Now it's nothing more than an ambassador bus, just like the much older <i>Excelsiors</i> of the fleet. No wonder they got stuck with Barclay for years. Commander T'Ron, the most mustachio'd Vulcan in the fleet, won't let that be an excuse for discipline to slip. Also: Longo and Robinson are getting married?! Can Dr. Borik survive being the best man? Replicate a bow tie, it's a new pod!</p>\n",
+      "date_published": "2019-09-09T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/043-nenebek/",
+      "url": "http://stardatesupplemental.com/episodes/043-nenebek/",
+      "title": "All Cockpit, No Walkpit",
+      "content_html": "<p>The mining shuttle <i>Nenebek</i> is 80% cockpit and 120% unfit for shuttling Federation officers about in. But that doesn't stop so-called chief engineer Geordi LaForge from greenlighting the <i>Enterprise's</i> captain from getting on Captain Dirgo's rust bucket. Which literally crashes less than a minute later. Is Dirgo a low-rent Han Solo cosplayer? How does he <i>always</i> make the wrong choice? How will we all deal with saying goodbye the USS <i>Hood's</i> acting ensign and resident bad boy Jake Kurland on his final mission? Why did Kyle screw up his microphone selection? Brace yourselves, we're crashing into a new pod!</p>\n",
+      "date_published": "2019-09-02T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/042-iks-vorcha/",
+      "url": "http://stardatesupplemental.com/episodes/042-iks-vorcha/",
+      "title": "Butt Trombone Action",
+      "content_html": "<p>The IKS <i>Vor'cha</i> is one big bad ship, the jewel of the Klingon fleet. And it's spending most of its time hauling around K'mpec, the longest-serving and fattest chancellor in Klingon history. But now K'mpec is dying! Can Bobby handle the right of succession as smoothly as Picard would? Are K'Ehleyr and Kalas old high school besties? Doesn't the Klingon poet K'ontrell sound really familiar? Load up the newest pod on your tricorder for all of this and to hear about Kyle's home improvement envy.</p>\n",
+      "date_published": "2019-08-11T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/041-starbase-133/",
+      "url": "http://stardatesupplemental.com/episodes/041-starbase-133/",
+      "title": "Arizona Dawn",
+      "content_html": "<p>Doctor Dalen Quaice, AKA discount Wilford Brimley in space, AKA space cowboy entering retirement, has had it with Starbase 133 after years of serving whiskey under the table in the infirmary. And why wouldn't he after a dead wife and too many broken bones repaired after constant chicanery from the Parrises Squares matches the local maintenance crew keep losing? Meanwhile, has life as a single dad rendered the USS <i>Hood's</i> Kevin Kurland insane? Would Conrad rather be interrogated by the Tal Shiar or Section 31? Pack a small, oddly shaped Federation suitcase. It's time for another pod!</p>\n",
+      "date_published": "2019-07-28T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/040-qmaire/",
+      "url": "http://stardatesupplemental.com/episodes/040-qmaire/",
+      "title": "Nachos in Space",
+      "content_html": "<p>The <i>Q'Maire</i> is among the top of the line when it comes to Talarian warships... which means when it comes to a slugging match with the <i>Enterprise</i> it's rockets and x-rays have no chance of accomplishing anything. But Captain Endar is ready to fight for his son, Jono, even if he is just another random blonde heartthrob from the 90's. Also, the Brothers Weems are fiending hard for nachos. Like too hard. Like shredded targ and spicy pepper nacho hard. Melt that cheese and strap in, it's a new pod!</p>\n",
+      "date_published": "2019-07-21T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/039-uss-endeavor/",
+      "url": "http://stardatesupplemental.com/episodes/039-uss-endeavor/",
+      "title": "Swipe Right For Gaijin",
+      "content_html": "<p>The USS <i>Ahwahnee</i> and USS <i>Endeavor</i> had one thing in common: a dance card with the Borg at Wolf 359. In the fourth and final part of our look at this epic (and totally one-sided) battle, the Brothers Weems look at these two ships, debate their role in the battle, and tell you which one had the distinction of being the sole survivor. Also, would Klingons swipe right to fight? What's up with Vulcan bathrobes and hookahs? Can the USS <i>Hood</i> survive an encounter with the Borg? What would DeSotus of Borg do? Tune in to find out!</p>\n",
+      "date_published": "2019-07-07T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/038-uss-bonestell/",
+      "url": "http://stardatesupplemental.com/episodes/038-uss-bonestell/",
+      "title": "Space Irish",
+      "content_html": "<p>The USS <i>Bonestell</i> does well the only thing <i>Oberth</i>-class starships are meant to do: mildly risky science. Anything more and it's a warp core breech if you're lucky. The <i>Bonestell</i> wasn't, and drew the short straw to become the token <i>Oberth</i>-class to be blown to smithereens at the Battle of Wolf 359. Could Volkov do better if it had been her in the <i>Tsiolkovsky</i>? How was Kyle's trip to Europe? How nightmarish are captain conference calls when fleets meet up? Get to the escape pods, it's another Wolf 359 episode!</p>\n",
+      "date_published": "2019-06-09T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/037-uss-melbourne/",
+      "url": "http://stardatesupplemental.com/episodes/037-uss-melbourne/",
+      "title": "Fish Boogaloo",
+      "content_html": "<p>Starfleet puts out the all-call for every ship possible to fight the Borg at Wolf 359. Unfortunately for the personnel at Starbase 74, that includes their on-call, practically mothballed starship the USS <i>Melbourne</i>. And to make things worse, Riker turned down the captain's chair. But station commander Orfil Quinteros, AKA Evil Picard, thinks this might be his chance to make a power grab and take out the real Picard. Can Dane 'Double Horgon' McMurphy get her running in time while double-fisting whiskies at 'The Warp Core'? Will Dr. Epstein's Doom Shield work? Exactly how many pieces will the <i>Melbourne</i> be blown into? Tune in to find out!</p>\n",
+      "date_published": "2019-05-05T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/036-locutus-cube/",
+      "url": "http://stardatesupplemental.com/episodes/036-locutus-cube/",
+      "title": "Borg Gubbins",
+      "content_html": "<p>Nothing ruins a party like a Borg cube. And unlike those losers in J-25, the Borg cube hitting the Federation is ready to crash into things in style. Locutus of Borg seems a bit insecure, with that 3d printed eight-pack and all. But 7 of 16's power stance might be enough to make up for it. Can Lt. Mackelroy survive Worf's team-building exercise? Will Longo's Parrises Square team take down the cube? Is it Sotus of Borg? Or Bobus of Borg? Randomize those phaser frequencies, it's the first part of a month of Wolf 359!</p>\n",
+      "date_published": "2019-04-28T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/035-zalkonian-warship/",
+      "url": "http://stardatesupplemental.com/episodes/035-zalkonian-warship/",
+      "title": "Transporter Cancer",
+      "content_html": "<p>The Zalkonians are the kind of verge-of-trancendence people that <i>love</i> choking people with their warship choke beams. And nobody loves the choke beam more than Commander Sunad. What exactly are they transcending into, anyway? The largest buttcheeks in the galaxy? Do Klingon accountants have to battle Imperial Revenue Agents to file a tax return? Are transporters carcinogenic? Can Ensign Tom hit a barn if he fires <i>all</i> the torpedoes? It's another pod where almost none of those questions are answered!</p>\n",
+      "date_published": "2019-04-21T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/034-krayton/",
+      "url": "http://stardatesupplemental.com/episodes/034-krayton/",
+      "title": "Soulful Poultry",
+      "content_html": "<p>DaiMon Tog of the Ferengi ship <i>Krayton</i> has the hots for Ambassador Troi, the most available telepathic bachelorette in the Federation. And his BFF, Dr. Farek, thinks the only way to help him is to cut open her head and put probes in her brain. Isn't love strange? Do Vulcans have energy drinks? Does Infinite Diversity in Infinite Caffeine outsell Ultimate Logic? What's the Extreme Holodeck League like? Will Lt. Longo and the USS <i>Hood's</i> night shift save the day? Will Daniels ever get those nacho stains out? Tune in to this week's pod to find out!</p>\n",
+      "date_published": "2019-03-31T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/033-jovis/",
+      "url": "http://stardatesupplemental.com/episodes/033-jovis/",
+      "title": "Accidental Sean Connery",
+      "content_html": "<p>Kivas Fajo is the 24th century's evilest prancing billionaire, and the <i>Jovis</i> is his spaceship home slash art gallery of choice. Is he jacking Data from the <i>Enterprise</i>, or is the inner comic book geek in him lusting after possessing the one and only time-displaced actor turned Starfleet officer, Viggo Mortensen? Who <i>wouldn't</i> want to LARP Middle Earth with him in the holodeck? Is <i>Bobby DeSoto Needs A Friend</i> the best radio letter? What <i>is</i> an 'accidental Sean Connery'? Who stole Conrad's foil Charizard as a kid? Pod up, it's another radio letter from the Brothers Weems!</p>\n",
+      "date_published": "2019-03-24T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/032-gomtuu/",
+      "url": "http://stardatesupplemental.com/episodes/032-gomtuu/",
+      "title": "Bat&#39;leths &amp; Bloodwine",
+      "content_html": "<p>Gomtuu, the living ship, is so lonely it could literally die. Tam Elbrun, the most annoying Betazoid in the galaxy with possibly the worst pants ever, wants to be BFFs, though. What's a giant space-dwelling sunflower seed to do? Where do you talk dogs for walksies on starships? Do Klingons like RPGs, or <i>love</i> RPGs? Does the USS <i>Hood's</i> night crew got the right stuff? It's time for a pod with at least twice as much Crewman Daniels than normal!</p>\n",
+      "date_published": "2019-03-17T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/031-uss-enterprise-c/",
+      "url": "http://stardatesupplemental.com/episodes/031-uss-enterprise-c/",
+      "title": "Radio Letters",
+      "content_html": "<p>We're breaking our own rules when the USS <i>Enterprise</i>-C pops out of a time rift to show off some classy movie-style uniforms and perhaps the handsomest pilot in Starfleet. They just escaped near destruction, but bad luck for them, they have to go back! The USS <i>Hood</i> faces its questionable namesake under the command of Captain Dodge, cat-people get some big britches, and Longo's wearing a <i>war</i> skant! Also, what kind of podcasts - err - &quot;radio letters&quot; do Vulcans produce? It's a timeline-breaking pod this week with the Brothers Weems!</p>\n",
+      "date_published": "2019-03-10T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/030-tanuga-iv-research-station/",
+      "url": "http://stardatesupplemental.com/episodes/030-tanuga-iv-research-station/",
+      "title": "Street Gagh",
+      "content_html": "<p>Doctor Nel Apgar has two problems: hiding the fact that he's secretly working for the Romulans, and his totally not-cool jealousy issues regarding his wife. How is going to solve them both? The classic evil scientist way, with attempted murder! Too bad for him he screws up so bad he blows himself up, and too bad for us but we had to watch one of the <i>worst</i> episodes in TNG history! Is Viggo an out of control flirt? Do Klingons have problems getting apartments if they own a targ? What sauce do <i>you</i> put on your cone of street gagh? Set phasers on lavender, it's a space law episode!</p>\n",
+      "date_published": "2019-03-03T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/029-angosian-police-shuttle/",
+      "url": "http://stardatesupplemental.com/episodes/029-angosian-police-shuttle/",
+      "title": "Sleepover Squad",
+      "content_html": "<p>When Roga Danar gets tired of eating raw rabbits in the worst campout ever with his fellow ex-military members of the Sleepover Squad, he decides to break loose. But the <i>Enterprise</i> is in orbit to stop him. Who's going to come out on top? How does Barclay afford his apartment? What do you put on post-economy rental applications? Make sure you've got a rabies vaccination form, it's a new pod!</p>\n",
+      "date_published": "2019-02-24T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/028-vo/",
+      "url": "http://stardatesupplemental.com/episodes/028-vo/",
+      "title": "The Cheeto Romulan",
+      "content_html": "<p>Admiral &quot;A.J.&quot; Jarok's dating pool is getting a little thin, so time to get a spray tan and defect to the Federation in the scout ship <i>Vo</i> and lie about his age on his OK Pon-Farr profile. But if things go sour he's got his Metamucil suicide chip ready to go. Will Kyle get a snow shovel? Will Bobby &amp; Taggert survive a showdown with Tommy at Nelvana III? Will Longo throw a Parrises Squares match in the name of peace? Look out, it's a new Romulan filled pod!</p>\n",
+      "date_published": "2019-02-17T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/027-gatherer-starship/",
+      "url": "http://stardatesupplemental.com/episodes/027-gatherer-starship/",
+      "title": "Purple Lasers",
+      "content_html": "<p>Brull &amp; Chorgan are just a pair of leather jacket bedazzling, luxurious haired, deep V chest-hair-showing space punk pirates. Who happen to <i>love</i> doing space crimes as members of the Gatherers with their run-down spaceships with sweet sweet purple space lasers. Are they good at crime? Kind of. But they're more in love with unique colored lasers and piles of questionable space junk. How do they make ends meet? What's up with single biome planets? Are Longo's skant leaps too revealing? Pop those jacket collars, it's space crime time!</p>\n",
+      "date_published": "2019-02-10T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/026-pi/",
+      "url": "http://stardatesupplemental.com/episodes/026-pi/",
+      "title": "Goth Phase Vulcans",
+      "content_html": "<p>Brull &amp; Chorgan are just a pair of leather jacket bedazzling, luxurious haired, deep V chest-hair-showing space punk pirates. Who happen to <i>love</i> doing space crimes as members of the Gatherers with their run-down spaceships with sweet sweet purple space lasers. Are they good at crime? Kind of. But they're more in love with unique colored lasers and piles of questionable space junk. How do they make ends meet? What's up with single biome planets? Are Longo's skant leaps too revealing? Pop those jacket collars, it's space crime time!</p>\n",
+      "date_published": "2019-02-03T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/025-cleponji/",
+      "url": "http://stardatesupplemental.com/episodes/025-cleponji/",
+      "title": "Replicators Incorporated",
+      "content_html": "<p>Captain Galek Sar has been dead for over 1000 years, along with his ship the <i>Cleponji</i>, but it's never too late to worry about his undeleted computer files that he's strewn literally everywhere across his ship. Good thing for him a booby trap has the <i>Enterprise</i> too busy to snoop too much! Is Picard somehow a <i>worse</i> archaeologist than Indiana Jones? Is Conrad a mustard guy, or more blue? Is Replicators Incorporated too snobby to hire graduates from the generically named Space College? All this and a return of your fourth or fifth favorite Vulcan in the newest pod!</p>\n",
+      "date_published": "2019-01-27T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/024-sheliak-corporate-ship/",
+      "url": "http://stardatesupplemental.com/episodes/024-sheliak-corporate-ship/",
+      "title": "Canadian Riker",
+      "content_html": "<p>When you're halfway to a new planet with a boatload of amorphous colonists only to find out that it's infested by human pests, what's a Sheliak director to do? Get a can of raid? Or talk tough about treaties with Starfleet's sexiest captain while wearing your blingiest wrap? Make the humies do the dirty work! Why is space poker like normal poker, but space chess is like crazy 3-d nonsense chess? Do they really dub &quot;eh&quot; at the end of Riker's lines in Canada rebroadcasts? What <i>would</i> Volkov do to protect a new world of customers? It's time for another round of &quot;Guess that anatomy!&quot;</p>\n",
+      "date_published": "2018-12-01T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/023-tng-s02-finale/",
+      "url": "http://stardatesupplemental.com/episodes/023-tng-s02-finale/",
+      "title": "Bolian Poop Jokes",
+      "content_html": "<p>The Brothers Weems have ran out of starships in season 2 of The Next Generation, so it's time for another season wrapup! We learn about the sole shuttle we say goodbye to in season 2, review our favorite and least favorite ships from the season, and contemplate if the podcast has what it takes to get some groupies. When it's all done, we take the crew of the USS <i>Hood</i> through a dreaded clip show. Stay brave, we can make it through this together!</p>\n",
+      "date_published": "2018-11-04T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/022-kreechta/",
+      "url": "http://stardatesupplemental.com/episodes/022-kreechta/",
+      "title": "Peanut Butter and Grub Sandwich",
+      "content_html": "<p>The <i>Kreechta</i> was minding its own business prying nails loose from abandoned colonies for a few extra scraps of latinum when what did it find? Two Federation starships fighting. Can DaiMon Bractor outsmart Captains Picard <i>and</i> Riker? How hard was it to hold Data up for a keg-stand in his academy years? Would peanut butter and grub sandwiches and other potential Ferengi-Klingon fusion food be popular in Qo'noS farmer markets? Hold onto your wallets, it's a Ferengi episode!</p>\n",
+      "date_published": "2018-10-28T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/021-uss-hathaway/",
+      "url": "http://stardatesupplemental.com/episodes/021-uss-hathaway/",
+      "title": "Robot Puppet",
+      "content_html": "<p>Starfleet treated the USS <i>Hathaway</i> the same way it treats all its old starships, ditching it in a random, isolated orbit waiting for anyone passing by to discover. Fortunately for the old girl, it gets picked by Will Riker's dodgeball team for wargames. Will this be Captain Riker's first loss ever? Will Crewman Daniels vacuum all of the derelict ship's carpet in time? What would Will do if he was stuck in the delta quadrant?! So many questions, so little time!</p>\n",
+      "date_published": "2018-10-08T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/020-iks-tong/",
+      "url": "http://stardatesupplemental.com/episodes/020-iks-tong/",
+      "title": "Pumpkin Spice Blood Wine",
+      "content_html": "<p>The IKS <i>T'Ong</i> has been taking a power nap for the last 75 years, and awakes in a different era with different rules. How is Captain K'Temoc, Klingon death metal Dahar master, supposed to drop a new single for his comeback tour if the empire isn't at war? Fortunately for him, there's a ton of Federation outposts he can roast with disruptor fire to get some free publicity while his second-in-command updates the ship's Ferengify account. Unfortunately for him, Federation special emissary K'Ehleyr is wearing her second-best jumpsuit and power heels to reign the ship in. What's with Worf's dead romances? Would K'Temoc do a joint tour with Microbrain? Would Pumpkin Spice Blood Wine be a thing? Shields up, it's more Klingons!</p>\n",
+      "date_published": "2018-10-01T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/019-mondor/",
+      "url": "http://stardatesupplemental.com/episodes/019-mondor/",
+      "title": "Boil Apprentice",
+      "content_html": "<p>When the Pakled ship <i>Mondor</i> rolls into the neighborhood, most spacefarers laugh, taking the husky-bodied, child-faced, simple-speaking Pakleds to be fools. And when it comes to words and reading behavior in others, the Pakleds definitely come up short. But Captain Grebnedlog is the fastest draw west of Qo'noS, catching Klingons and Romulans off-guard and stealing their better tech for themselves. Can Volkov get the better of Grebnedlog? Do Klingons find New Orleans boils to be proper warrior banquets? Why does Sisko only have camp stoves? Raise shields, Pakleds are coming!</p>\n",
+      "date_published": "2018-09-16T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/018-borg-cube/",
+      "url": "http://stardatesupplemental.com/episodes/018-borg-cube/",
+      "title": "Anime Girlfriend Pose",
+      "content_html": "<p>System J-25 is Nowheresville, which is why one particularly unusually mellow Borg cube was sent to assimilate anything found there. Lucky for them, who comes along but the USS <i>Enterprise</i>. Now they could show the Collective their <i>real</i> potential! That is, after they manage to get rid of that loser Larry of Five. What's with Riker's dramatic wall poses? Could the <i>Hood</i> survive a cube? Exactly how did Bones end up with Q having a crush on him? Red alert, the Borg are coming!</p>\n",
+      "date_published": "2018-09-09T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/017-haakona/",
+      "url": "http://stardatesupplemental.com/episodes/017-haakona/",
+      "title": "Starship Mullet",
+      "content_html": "<p>Like any other Romulan vessel, the <i>Haakona</i> is all business up front and party in the back. Sub-commander Taris just wants to get through another day violating the Neutral Zone with square shoulder pads, but the Federation just won't give her a break. Meanwhile, the <i>Haakona</i>'s engineering team are running a speakeasy in the ship's superstructure to deal with the stress of being randomly displaced through time literally all the time. Kyle's collecting toy starships, and Conrad wants to know what the gagh is like in Klingon farmers markets. Brace for impact, it's a Romulan first!</p>\n",
+      "date_published": "2018-08-13T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/016-uss-yamato/",
+      "url": "http://stardatesupplemental.com/episodes/016-uss-yamato/",
+      "title": "Klingon Etsy",
+      "content_html": "<p>Being the proud owner of the largest mustache in Starfleet isn't enough to prevent Captain Donald Varley from getting the USS <i>Yamato</i> destroyed in the Neutral Zone a mere 10 days after assuming command due to an obsession with amateur space archaeology. Did we mention it was the <i>Enterprise's</i> sister ship and one of the most expensive vessels in the fleet? Way to go, Donny boy. Is Klingon Etsy a good Etsy or the <i>best</i> Etsy? How many dress models are acceptable for Romulans to choose from? Why do the O'Briens argue over dinner when they could replicate separate dishes? Find the escape pods, because Donald's dragging us all to Sto-vo-kor.</p>\n",
+      "date_published": "2018-08-05T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/015-starbase-173/",
+      "url": "http://stardatesupplemental.com/episodes/015-starbase-173/",
+      "title": "Popup Starbase",
+      "content_html": "<p>Starfleet needed a new starbase now that the Romulan Neutral Zone is heating up, and Big Carpet has continued to keep their fingers deeply hooked in the requisition process, so what do we get? Starbase 173, with some of the worst-carpeted hallway cafes in Starfleet. But at least it's got racist science officers and an emotionally distant vice admiral. The station's only saving grace might be Phillipa Louisa, J to the P's old flame and ex-prosecutor. Yikes! She's fierce and in charge, with business hair and party lipstick. What's with all these mono-biome planets? How hot <i>is</i> a Vulcan's nutsack? Hold on because we're doing some Dane McMurphy deep cuts!</p>\n",
+      "date_published": "2018-08-01T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/014-iks-pagh/",
+      "url": "http://stardatesupplemental.com/episodes/014-iks-pagh/",
+      "title": "Shark of the Ship",
+      "content_html": "<p>Riker is taking an internship on the IKS <i>Pagh</i> to make up for some missing Academy credits and he's a bit overeager to improve Klingon/Human &quot;relations&quot;. He'd better hope he's been keeping his bones strong, because Vekma the &quot;Klingon lady Riker&quot; of the <i>Pagh</i> has polished her headridge and is ready to show the ship's newest guest a <i>damn</i> good time. Meanwhile, the Brothers Weems want to know if it's a cold open or a soft open, and talk about fans of the show Bob &amp; Kevin of the <a href=\"https://bobandkevinshow.podbean.com/\" target=\"_blank\">Bob &amp; Kevin Show</a>. Is Mendon merely an annoying ensign or <i>the</i> most annoying ensign? Can time-travelling actor turned officer Viggo keep up with Klingon keg-stands? Prep your gag reflex because there's a whole pile of live gagh coming your way.</p>\n",
+      "date_published": "2018-07-22T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/013-darwin-station/",
+      "url": "http://stardatesupplemental.com/episodes/013-darwin-station/",
+      "title": "Holographic Cheesesteak",
+      "content_html": "<p>The Darwin Genetic Research Station is hell-bent on making Kahn 3.0 wearing a neon onesie. Is it the clashing colors that are distracting Starfleet from catching on? Doc Kingsley and her fellow ultra-racist eugenics BFFs are all now aging rapidly as their eerie adult-looking kids kill them with weird immune systems and intense eye contact. If that wasn't bad enough, the Brothers Weems have so many uncomfortable questions about holodecks and insertion. It's the episode with a record-breaking use of the word 'cheesesteak'. Check it out!</p>\n",
+      "date_published": "2018-07-15T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/012-uss-lantree/",
+      "url": "http://stardatesupplemental.com/episodes/012-uss-lantree/",
+      "title": "Vulcan Soap Opera",
+      "content_html": "<p>After over 70 years of running supply missions, the <i>Miranda</i>-class cruiser USS <i>Lantree</i> might consider having its crew dying from &quot;geriatric symptoms&quot; and being blown up as a merciful death. It's not easy being in the second-worst class of starships in Starfleet. Do Miranda captains trade cocktail recipes to dull the pain? How racey do Vulcan soap operas get, and what's up with Riker's dancing hologram girls? Watch out, Captain Volkov is back with the IKV <i>Targh</i> for some space drug mischief!</p>\n",
+      "date_published": "2018-07-01T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/011-erstwhile/",
+      "url": "http://stardatesupplemental.com/episodes/011-erstwhile/",
+      "title": "Warrior Beatniks",
+      "content_html": "<p>The <i>Erstwhile</i> might be a class 9 sublight cargo freighter using the same studio model as half the freighters in the Star Trek universe with a lonely crew of one, but when that crew member is none other than the outrageous Okona, you know you're in for a good time. Do Klingons ever have man buns? Does bad boy Jake have what it takes to be an acting ensign? Can the USS <i>Hood</i> handle Lt. Robinson's non-nonsense attitude and highly reflective lip gloss? Watch out! It's an episode we kept under 80 minutes!</p>\n",
+      "date_published": "2018-06-24T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/010-uss-repulse/",
+      "url": "http://stardatesupplemental.com/episodes/010-uss-repulse/",
+      "title": "Excelsior Captains Mailing List",
+      "content_html": "<p>Captain Taggert of the USS <i>Repulse</i> should be overjoyed when Doc Pulaski high-tails it for the <i>Enterprise</i>, but he's already wrapping a bow on a shuttlecraft to get her back. Is it Stockholm syndrome? Do the <i>Excelsior</i>-class ship captains have their own mailing list? What happens when Admiral &quot;Old As Balls&quot; Bones takes over as the <i>Hood</i>'s CMO? And Kalas is <i>pregnant</i>? Buckle up, it's going to get crusty and awkward.</p>\n",
+      "date_published": "2018-06-24T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/009-tng-s01-finale/",
+      "url": "http://stardatesupplemental.com/episodes/009-tng-s01-finale/",
+      "title": "Teen Heartthrob Vibe",
+      "content_html": "<p>We ran out of starships to talk about in season 1 of TNG, so it's time for our first season end spectacular. Say goodbye to the shuttlecraft we leave behind! Say <i>hello</i> to pretty boy shuttlejock Jake Kurland. Can the Next Generation producers mess up the first appearance of Romulans in the series? Boy can they! Can Kyle mess up which microphone he recorded with? You bet he can! How will DeSoto handle human popsicles and Romulans? Tune in and find out!</p>\n",
+      "date_published": "2018-06-11T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/008-uss-thomas-paine/",
+      "url": "http://stardatesupplemental.com/episodes/008-uss-thomas-paine/",
+      "title": "Meat Jelly Piles",
+      "content_html": "<p>Captain Rixx is one of the best captains in Starfleet, and the first Bolian to command a starship. Which still isn't enough for the USS <i>Thomas Paine</i> to get any actual screen time. What's a <i>New Orleans</i>-class starship like? How far down does a Bolian's ridge go? Pacifica is the premiere destination for Federation conferences, but do transporter chief conferences have enough clout to get time there, or do they get shunted to the Mariott's on Vulcan? When the USS <i>Hood</i> has to deal with an alien conspiracy, will Longo's skant be up to the task? There's only one way to find out!</p>\n",
+      "date_published": "2018-06-06T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/007-sanction/",
+      "url": "http://stardatesupplemental.com/episodes/007-sanction/",
+      "title": "This Is Your Brain On Space Drugs",
+      "content_html": "<p>When a whole world is addicted to space drugs because they can't tell the difference between narcotics and antibiotics, you end up with substandard, sublight freighters like the <em>Sanction</em>, complete with hillbilly cargo handlers and more mullets than you can shake a phaser at. Is that what Riker's face looks like every time with the ladies? Are the O'Briens the worst couple in science-fiction? Can Tasha straight talk Wesley into avoiding space drugs? Don't reach for the medicine cabinet, because the Brothers Weems are here to help.</p>\n",
+      "date_published": "2018-05-13T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/006-batris/",
+      "url": "http://stardatesupplemental.com/episodes/006-batris/",
+      "title": "Vulk-Mex Scene",
+      "content_html": "<p>When the Klingon equivalent to the Three Musketeers botch their effort to pimp their Talarian cargo freighter ride, the <i>Batris</i> has a bad hair day in a tussle with a bird of prey. Can Captain Korris light the galaxy on fire with an exploding ship that's seen better days? Will Konmel's mustache ever see its equal in the Empire? What's Vulkan tequila like? How big is the hamburger scene on Nausicaa? Start shouting at the sky to warn the dead: a podcast is coming.</p>\n",
+      "date_published": "2018-05-06T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/005-velara-base/",
+      "url": "http://stardatesupplemental.com/episodes/005-velara-base/",
+      "title": "Microbrain and the Ugly Bags of Mostly Water",
+      "content_html": "<p>Velara III is an empty world and yet the housing situation is still a nightmare, with all four of its terraforming residents sharing a single, snug, Velara Base. Dr. Kurt Mendl seems like peak creepy German scientist, and all Arthur and Bjorn wants is to start the metal band of their dreams. The local silicon-based lifeforms have a serious attitude problem, and Luisa <i>never</i> gets any respect. What's up with being a farmer in a society with replicators? How long can a Maron open go? Grab your guitar and follow your dreams, because TNG Season 1 isn't leaving without a fight.</p>\n",
+      "date_published": "2018-04-29T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/004-starbase-74/",
+      "url": "http://stardatesupplemental.com/episodes/004-starbase-74/",
+      "title": "Hot Fish Juice",
+      "content_html": "<p>Is Starbase 74's Commander Orfil Quinteros actually evil mirror universe Picard? He has the goatee and habit of uncomfortable touching to make a good case that at the least he's <i>Creepy</i> Picard. But never fear, Dane &quot;Double Horgon&quot; McMurphy is there with his peak 80's rugged good looks as Chief of Operations to build morale with some team building exercises on casual Friday. Would Bynars boost the <i>Hood</i>? What's Borg Light? Put a fish in the percolator cause it's going to get juicy.</p>\n",
+      "date_published": "2018-04-22T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/003-uss-stargazer/",
+      "url": "http://stardatesupplemental.com/episodes/003-uss-stargazer/",
+      "title": "The Dom-Jot Boys",
+      "content_html": "<p>Before the <em>Enterprise</em>, one Jean-Luc Picard was captain of the USS <em>Stargazer</em>. With his BFF Jack Crusher, this Nausicaan-fighting, Dom-jot hustling JLP was quite a ways from the mature diplomat-explorer he later becomes. It's the Cardassian War, there's problems with the Ferengi, and what's the deal with time-displaced Viggo Mortensen with a mustard shirt and a bat'leth? Get down to Bay 4 for a drink, it's our podcast's hat trick!</p>\n",
+      "date_published": "2018-04-15T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/002-ss-tsiolkovsky/",
+      "url": "http://stardatesupplemental.com/episodes/002-ss-tsiolkovsky/",
+      "title": "It&#39;s Getting Hot In Here",
+      "content_html": "<p>The SS <i>Tsiolkovsky</i> is doing what all <i>Oberth</i>-class vessels do, making science and trying not to blow up while looking at a collapsing red giant star. Then it gets a bad case of polywater intoxication and it's party until you freeze to death. Captain Misha Volkov is suffering from major career burnout, so instead of solving the problem she decides to take the polywater situation and a suggestion from the shady Orion scientist Dr. Chadzik and synthesizes polywater as the newest club drug to hit Risa, &quot;Polyanna&quot;. How will the <i>Hood's</i> DeSoto save the day? Get a designated driver, it's episode 2!</p>\n",
+      "date_published": "2018-04-08T00:00:00Z"
+    },{
+      "id": "http://stardatesupplemental.com/episodes/001-uss-hood/",
+      "url": "http://stardatesupplemental.com/episodes/001-uss-hood/",
+      "title": "Boyz on the Hood",
+      "content_html": "<p>Doing cool science and flipping the bird at the Romulans is a job for the <i>Galaxy</i>-class boys. So what's left for an <i>Excelsior</i>-class has-been like the USS <i>Hood</i>? Bus duty for admirals and other dignitaries. That's what. Captain Robert DeSoto's looking at a long career without his best wingmen now that Riker and La Forge are jumping ship for the Enterprise. Who's going to clean up all that old person smell? What's up with Starfleet admiral uniforms? Is Bobby D. losing his mind playing Uber driver or is this all part of his presidential aspirations long game? It's our maiden voyage, so bracing positions everyone!</p>\n",
+      "date_published": "2018-04-01T00:00:00Z"
+    }
+  ]
+}

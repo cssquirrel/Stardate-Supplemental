@@ -36,7 +36,13 @@ a, a:visited {
 }
 
 a:hover,a:focus {
-    color: #872624;
+    /*color: #872624;*/
+    color: black;
+}
+
+.icon-item a:hover img,
+#siteinfo .social a:hover img {
+   filter: grayscale(var(--value, 100%)) brightness(0);
 }
 
 p {
@@ -51,6 +57,10 @@ li {
     p, li {
         margin: 20px 0;
     }
+}
+
+a.direct-link {
+    opacity: 0;
 }
 
 /* // MASTHEAD ///////////////////////////////////////////////////////////////*/
@@ -87,7 +97,7 @@ li {
     }
 
     #masthead h1 {
-        font-size: 48px;
+        font-size: 44px;
         line-height: 1.2em;
         margin-right: 0;
         margin-bottom: 10px;
@@ -169,13 +179,15 @@ li {
 
 @media only screen and (max-width: 1000px) { 
     #masthead .subheading {
-        font-size: 12px;
+        font-size: 20px;
+        line-height: 24px;
         margin-bottom: 20px;
-        font-size: 12px;
     }
 
     #masthead .main-nav-wrapper {
         padding: 10px 0 20px;
+        border-top: 0;
+        border-bottom: 0;
     }
 
     .main-menu {
@@ -386,7 +398,7 @@ li {
 
 @media only screen and (max-width: 1000px) {
     #content .capsule {
-        padding: 40px;
+        padding: 20px;
     }
 }
 
@@ -406,6 +418,11 @@ li {
 
 .capsule h2 a {
     color: #444;
+}
+
+.capsule h2 a:hover,
+.capsule h2 a:focus {
+    color: black;
 }
 
 .capsule .date {
@@ -434,9 +451,13 @@ li {
     text-align: center;
     font-size: 14px;
     font-style: italic;
-    padding: 0 0 1.5em;
-    clear: both;    
-}
+    clear: both;
+    background-color: #444;
+    color: white;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding: 0.5em 0;
+}         
 
 .capsule .pod-nav {
     list-style-type: none;
@@ -444,22 +465,24 @@ li {
     padding-left: 0;
     margin-bottom: 0;
     position: relative;
+    display: block;
 }
 
 .capsule .pod-nav li {
     display: inline-block;
-    width: 49%;
-    margin: 0;    
+    width: calc(50% - 10px);
+    margin: 0;
+    vertical-align: top;
 }
 
 .capsule .pod-nav li + li {
-    position: absolute;
-    right: 0;
+    margin-left: 20px;
 }
 
 .capsule .pod-nav li a {
     display: inline-block;
     background: #31b9ea;
+    border-radius: 5px;
     color: white;
     width: 100%;
     text-align: center;
@@ -470,7 +493,7 @@ li {
 
 .capsule .pod-nav li a:hover,
 .capsule .pod-nav li a:focus {
-    background: #444;
+    background: black;
     color: white;
 }
 
@@ -483,10 +506,27 @@ li {
     padding: 10px 0;
 }
 
+#content.homepage #show-notes,
+#content.homepage #show-notes + ul {
+    display: none;
+}
+
 @media only screen and (max-width: 1000px) {
+
+    .capsule .pod-nav li {
+        display: block;
+        width: 100%;
+    }
+
+    .capsule .pod-nav li + li {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
     #content article.capsule .pod-nav li a {
         font-size: 24px;
-        padding: 20px 0;
+        padding: 20px;
+        width: calc(100% - 40px);
     }
 }
 
@@ -594,6 +634,17 @@ li {
     text-transform: uppercase;
 }
 
+.player .download-wrapper {
+    border-bottom: solid 2px #31b9ea;
+    border-top: solid 2px #31b9ea;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.homepage .player .download-wrapper {
+    margin-bottom: 1rem;
+}
+
 .player .download img,
 .player .itunes img {
     height: 16px;
@@ -614,17 +665,30 @@ li {
         margin-bottom: 20px;
     }
 
-    .player .download, .player .download:visited {
+    .player .download-wrapper {
+        border-top: none;
+        border-bottom: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .player .download, 
+    .player .download:visited {
         display: block;
         color: white;
         background-color: #31b9ea;
-        border-radius: 10px;
-        margin: 0 0 20px;
+        border-radius: 5px;
         text-align: center;
         padding: 20px;
+        padding-bottom: 16px;
         text-transform: uppercase;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 24px;
+    }
+
+    .player .download:hover,
+    .player .download:focus {
+        background-color: black;
     }
 
     .player .dot {
@@ -642,7 +706,6 @@ li {
     padding: 10px;
     background-color: #444;
     color: white;
-    margin-top: 20px;
     font-family: "Josefin Sans", sans-serif;
 }
 
