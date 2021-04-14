@@ -73,7 +73,7 @@ a.direct-link {
 
 @media only screen and (max-width: 1000px) { 
     #masthead {
-        padding-bottom: 5px;
+        padding-bottom: 0;
     }
 }
 
@@ -188,6 +188,7 @@ a.direct-link {
         padding: 10px 0 20px;
         border-top: 0;
         border-bottom: 0;
+        margin-bottom: 0;
     }
 
     .main-menu {
@@ -312,13 +313,13 @@ a.direct-link {
 @media only screen and (max-width: 1000px) { 
 
     .hosts {
-        margin-top: 40px;
+        margin-top: 20px;
     }
 
     .hosts h2 {
         position: relative;
         width: auto;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 
     .hosts .brother.conrad,
@@ -333,12 +334,12 @@ a.direct-link {
     .hosts .brother.kyle .portrait {
         float: none;
         display: inline-block;
-        width: 118px;
+        width: 60px;
     }
 
     .hosts .brother.conrad .info,
     .hosts .brother.kyle .info {
-        font-size: 28px;
+        font-size: 14px;
     }
 
     .hosts .brother.kyle {
@@ -347,12 +348,12 @@ a.direct-link {
     }
 
     .hosts .brother.conrad .portrait {
-        margin-right: 20px;
+        margin-right: 7px;
     }
 
     .hosts .brother.kyle .portrait {
         float: right;
-        margin: 0 0 0 20px;
+        margin: 0 0 0 10px;
     }
 }
 
