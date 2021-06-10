@@ -690,6 +690,8 @@ a.direct-link {
     margin-bottom: 10px;
     text-transform: uppercase;
     color: #31b9ea;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 10px;
 }
 
 .homepage .player .download-wrapper:not(.listen) {
