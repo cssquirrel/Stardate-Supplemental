@@ -5,12 +5,21 @@
 	
 	<link href="http://stardatesupplemental.com/feed/feed.xml" rel="self"/>
 	<link href="http://stardatesupplemental.com/"/>
-	<updated>2021-06-09T00:00:00Z</updated>
+	<updated>2021-06-10T00:00:00Z</updated>
 	<id>http://stardatesupplemental.com/</id>
 	<author>
 		<name>The Brothers Weems</name>
 		<email>stardatesup@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Burger Shuttle</title>
+		<link href="http://stardatesupplemental.com/episodes/068-lysian-alliance/"/>
+		<updated>2021-06-10T00:00:00Z</updated>
+		<id>http://stardatesupplemental.com/episodes/068-lysian-alliance/</id>
+		<content type="html">&lt;p&gt;The Lysian Alliance is a top-of-the-line military force... if it were the 22nd century. Unfortunately they&#39;re neighbors with the Federation and the USS &lt;i&gt;Enterprise&lt;/i&gt; is suffering from amnesia and here to wreck their day. How bad is it when the Pakled have more firepower than you do? But, hey, Data&#39;s a bartender now and the brothers have a really good feeling about this new Kieran guy. Is he going to be a regular? Tune in and find out!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Dorf or Wax</title>
